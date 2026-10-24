@@ -226,6 +226,12 @@ The router recorded:
 
 These results confirmed that the ACL was processing traffic according to the configured rules.
 
+### ACL Verification Evidence
+
+The screenshot below shows the ACL match counters after testing connectivity between the Sales, HR, and IT networks.
+
+![ACL Verification Evidence](Lab-05-ACL-Evidence.png)
+
 ## Security Analysis
 
 ### Why Could HR Not Successfully Ping Sales?
