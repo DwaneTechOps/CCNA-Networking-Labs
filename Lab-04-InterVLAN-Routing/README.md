@@ -18,3 +18,7 @@ Configure VLANs and a trunk, then use router-on-a-stick so devices in Sales, HR,
 
 ## Verification
 Connectivity between devices in the Sales, HR, and IT VLANs was tested successfully.
+
+## Evidence
+
+![Successful inter-VLAN ping tests](Lab-04-InterVLAN-Evidence.png)
